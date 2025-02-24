@@ -1,8 +1,8 @@
 # Lucrare 3: Docker
 
-> Realizat de studentul <u>Babacaev Renat, I2301</u>
+> Realizat de studentul <u>Babacaev Renat, I2301</u> @renatbabacaev
 > \
-> Verificat de <u>Mihail Croitor</u>
+> Verificat de <u>Mihail Croitor</u> @mcroitor
 >
 > 24 Februarie 2025
 
