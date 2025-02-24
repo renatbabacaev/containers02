@@ -93,7 +93,8 @@ hello from e765b68520d0
 
 ID-ul este hostname-ul debian-ului care este în container
 
-Vom avea nevoie să repornim container-ul. Ar fi logic să rulăm comanda precedentă, dar Docker va afișa eroare
+> [!CAUTION]
+> Vom reporni container-ul. Ar fi logic să rulăm comanda precedentă, dar Docker va afișa eroare
 
 ![Docker Error](Images/3.png)
 
@@ -129,7 +130,7 @@ Ieșim cu comanda `exit`
 
 Lucrarea dată ne familiarizează cu procesul de lucru cu containerele Docker.
 
-Containerele oferă o modalitate comodă și eficientă de dezvoltare și rulare a aplicațiilor într-un mediu izolat de sistemul host, cu toate dependențele, librăriile și alte aplicații necesare. Astfel poate fi asigurată lucrul consistent al aplicațiilor iar în caz de vreo eroare, container-ul poate fi reinstalată împreună cu aplicația.
+Containerele oferă o modalitate comodă și eficientă de dezvoltare și rulare a aplicațiilor într-un mediu izolat de sistemul host, cu toate dependențele, librăriile și alte aplicațiile necesare. Astfel poate fi asigurată lucrul consistent al aplicațiilor iar în caz de vreo eroare, container-ul poate fi reinstalată împreună cu aplicația.
 
 ## Bibliografie
 
