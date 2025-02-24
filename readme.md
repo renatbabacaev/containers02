@@ -133,7 +133,7 @@ Containerele oferă o modalitate comodă și eficientă de dezvoltare și rulare
 
 ## Bibliografie
 
-[^1]: [Reddit u,/mohelgamal](https://www.reddit.com/r/docker/comments/keq9el/comment/gg4f2dc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
+[^1]: [Reddit, u/mohelgamal](https://www.reddit.com/r/docker/comments/keq9el/comment/gg4f2dc/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 [^2]: [Docker Container](https://www.docker.com/resources/what-container/)
 [^3]: [Arch Wiki AUR](https://wiki.archlinux.org/title/Arch_User_Repository)
 [^4]: [Docker CMD](https://www.docker.com/blog/docker-best-practices-choosing-between-run-cmd-and-entrypoint/#:~:text=reduce%20image%20size.-,CMD,docker%20run,-.)
